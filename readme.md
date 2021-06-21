@@ -1,0 +1,1 @@
+Projeto feito para praticar Javascript, html e CSS;
