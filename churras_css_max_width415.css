@@ -24,7 +24,7 @@ body{
 
 #containerImg{
     background-color:;
-    background-image: url("../churras_assets/barbecueImg.png");
+    background-image: url("churras_assets/barbecueImg.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
