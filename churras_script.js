@@ -28,7 +28,7 @@ function calc(element){
     let todosCamposPreenchidos = true
 
 
-    if(qtd_adultos.value == 0 || qtd_duracao.value == 0){
+    if(qtd_adultos.value == 0 || qtd_duracao.value == 0 || qtd_adultos.value < 0 || qtd_duracao.value < 0){
         todosCamposPreenchidos = false
     }
 
